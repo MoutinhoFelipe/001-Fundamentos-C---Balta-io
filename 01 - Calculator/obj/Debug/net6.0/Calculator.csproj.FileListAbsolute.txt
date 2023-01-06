@@ -1,0 +1,30 @@
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\git\sandbox\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\git\sandbox\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\git\sandbox\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\git\sandbox\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\git\sandbox\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\git\sandbox\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\git\sandbox\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\git\sandbox\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\bin\Debug\net6.0\Calculator.exe
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\bin\Debug\net6.0\Calculator.dll
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.dll
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\git\sandbox\Fundamentos CSharp - Balta io\01 - Calculator\obj\Debug\net6.0\ref\Calculator.dll
