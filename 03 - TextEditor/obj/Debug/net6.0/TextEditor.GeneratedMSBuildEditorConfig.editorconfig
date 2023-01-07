@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Stopwatch
-build_property.ProjectDir = C:\git\sandbox\Balta io\001-Fundamentos_CSharp_Balta_io\02 - StopWatch\
+build_property.RootNamespace = TextEditor
+build_property.ProjectDir = C:\git\sandbox\Balta io\001-Fundamentos_CSharp_Balta_io\TextEditor\

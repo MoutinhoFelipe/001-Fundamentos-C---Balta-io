@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\02 - StopWatch\\Stopwatch.csproj": {}
+    "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\02 - StopWatch\\Stopwatch.csproj": {
+    "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\02 - StopWatch\\Stopwatch.csproj",
-        "projectName": "Stopwatch",
-        "projectPath": "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\02 - StopWatch\\Stopwatch.csproj",
+        "projectUniqueName": "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\TextEditor\\TextEditor.csproj",
+        "projectName": "TextEditor",
+        "projectPath": "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\mouti\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\02 - StopWatch\\obj\\",
+        "outputPath": "C:\\git\\sandbox\\Balta io\\001-Fundamentos_CSharp_Balta_io\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
